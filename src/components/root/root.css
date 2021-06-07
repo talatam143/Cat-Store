@@ -1,0 +1,49 @@
+.rootimg{
+    background-image: url(../../images/rootimage.jpg);
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+}
+
+.containerdiv{
+    background-color: rgba(251,198,130,255);
+    margin: 5%;
+}
+
+.heading{
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #58585a;
+}
+
+.infocol{
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #58585a;
+    padding: 5%;
+    background-color: #ffefdf;
+}
+
+.logincol{
+    background-color: #58585a;
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: rgba(251,198,130,255);
+}
+
+.btn{
+    width: 80px !important;
+}

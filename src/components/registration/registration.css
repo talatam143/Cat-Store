@@ -1,0 +1,37 @@
+.rdiv{
+    background-image: url(../../images/rootimage.jpg);
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+}
+
+.rrow{
+    background-color: rgba(251,198,130,255);
+    position: fixed;
+    top: 5%;
+    left: 20%;
+    right: 20%;
+}
+
+.formrow{
+    justify-content: center;
+    background-color: #d5b69a;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.fbutton{
+    width: 100px !important;
+}
+
+.forma{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
