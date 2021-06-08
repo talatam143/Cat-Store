@@ -14,7 +14,7 @@
 
 .rrow{
     background-color: rgba(251,198,130,255);
-    position: fixed;
+    position:absolute;
     top: 5%;
     left: 20%;
     right: 20%;
